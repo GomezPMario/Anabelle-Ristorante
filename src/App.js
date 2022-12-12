@@ -20,11 +20,11 @@ function App() {
             <Navbar />
 
             <Routes>
-              <Route exact path="/" element={<Home />} />
-              <Route exact path="/creaPedido" element={<CreaPedido />} />
-              <Route exact path="/contacto" element={<Contacto />} />
-              <Route exact path="/sobreNosotros" element={<SobreNosotros />} />
-              <Route path="*" element={<Error />} />
+              <Route exact path="/Anabelle-Ristorante/" element={<Home />} />
+              <Route exact path="/Anabelle-Ristorante/creaPedido" element={<CreaPedido />} />
+              <Route exact path="/Anabelle-Ristorante/contacto" element={<Contacto />} />
+              <Route exact path="/Anabelle-Ristorante/sobreNosotros" element={<SobreNosotros />} />
+              <Route path="/Anabelle-Ristorante/*" element={<Error />} />
             </Routes>
 
             <Footer />
