@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Anabelle-Ristorante/static/css/main.a37acd51.css",
-    "main.js": "/Anabelle-Ristorante/static/js/main.dac9c220.js",
+    "main.js": "/Anabelle-Ristorante/static/js/main.3a3a095b.js",
     "static/js/787.14948d96.chunk.js": "/Anabelle-Ristorante/static/js/787.14948d96.chunk.js",
     "static/media/promocion2.png": "/Anabelle-Ristorante/static/media/promocion2.c5ef4c98db414418c915.png",
     "static/media/promocion1.png": "/Anabelle-Ristorante/static/media/promocion1.d1cb2b2aaa35f6458f6f.png",
@@ -30,11 +30,11 @@
     "static/media/notification.ttf?s3g3t9": "/Anabelle-Ristorante/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/Anabelle-Ristorante/index.html",
     "main.a37acd51.css.map": "/Anabelle-Ristorante/static/css/main.a37acd51.css.map",
-    "main.dac9c220.js.map": "/Anabelle-Ristorante/static/js/main.dac9c220.js.map",
+    "main.3a3a095b.js.map": "/Anabelle-Ristorante/static/js/main.3a3a095b.js.map",
     "787.14948d96.chunk.js.map": "/Anabelle-Ristorante/static/js/787.14948d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a37acd51.css",
-    "static/js/main.dac9c220.js"
+    "static/js/main.3a3a095b.js"
   ]
 }
