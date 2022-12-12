@@ -25,16 +25,16 @@ export class Navbar extends Component {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item active">
-                  <Link className="nav-link" to="/">Home</Link>
+                  <Link className="nav-link" to="/Anabelle-Ristorante/">Home</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/sobreNosotros">Quienes somos</Link>
+                  <Link className="nav-link" to="/Anabelle-Ristorante/sobreNosotros">Quienes somos</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/creaPedido">Crea tu pedido</Link>
+                  <Link className="nav-link" to="/Anabelle-Ristorante/creaPedido">Crea tu pedido</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/contacto">Contáctanos</Link>
+                  <Link className="nav-link" to="/Anabelle-Ristorante/contacto">Contáctanos</Link>
                 </li>
                 
               </ul>
