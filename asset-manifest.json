@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Anabelle-Ristorante/static/css/main.a37acd51.css",
+    "main.js": "/Anabelle-Ristorante/static/js/main.dac9c220.js",
+    "static/js/787.14948d96.chunk.js": "/Anabelle-Ristorante/static/js/787.14948d96.chunk.js",
+    "static/media/promocion2.png": "/Anabelle-Ristorante/static/media/promocion2.c5ef4c98db414418c915.png",
+    "static/media/promocion1.png": "/Anabelle-Ristorante/static/media/promocion1.d1cb2b2aaa35f6458f6f.png",
+    "static/media/promocion3.png": "/Anabelle-Ristorante/static/media/promocion3.b4c706b49ff3633498a0.png",
+    "static/media/bg_1.png": "/Anabelle-Ristorante/static/media/bg_1.202f82301219211d41ce.png",
+    "static/media/bg_2.png": "/Anabelle-Ristorante/static/media/bg_2.66137331deff85934118.png",
+    "static/media/bg_3.jpg": "/Anabelle-Ristorante/static/media/bg_3.e27c6c4ebcb00a1dfc3e.jpg",
+    "static/media/imagenMenus.jpg": "/Anabelle-Ristorante/static/media/imagenMenus.ba7cd429b516b2a92fe2.jpg",
+    "static/media/bg_1.jpg": "/Anabelle-Ristorante/static/media/bg_1.8134fb277a789ac36145.jpg",
+    "static/media/bg_2.jpg": "/Anabelle-Ristorante/static/media/bg_2.c872eeacf4c2feb226cc.jpg",
+    "static/media/bg_4.jpg": "/Anabelle-Ristorante/static/media/bg_4.1016007dcbe4031ed5ad.jpg",
+    "static/media/fondoCreaMenu.jpg": "/Anabelle-Ristorante/static/media/fondoCreaMenu.1016007dcbe4031ed5ad.jpg",
+    "static/media/casa.png": "/Anabelle-Ristorante/static/media/casa.2176d0199b3d432f1a7b.png",
+    "static/media/restaurante.png": "/Anabelle-Ristorante/static/media/restaurante.a4252ca822a57d19172a.png",
+    "static/media/gallery-1.jpg": "/Anabelle-Ristorante/static/media/gallery-1.2b73a115ffc9f285fa8a.jpg",
+    "static/media/gallery-3.jpg": "/Anabelle-Ristorante/static/media/gallery-3.79234e543610e62b352c.jpg",
+    "static/media/gallery-4.jpg": "/Anabelle-Ristorante/static/media/gallery-4.3fcd4127bdb2654b28ea.jpg",
+    "static/media/imgPromotions.png": "/Anabelle-Ristorante/static/media/imgPromotions.42d4e56f26005bd36c95.png",
+    "static/media/image_5.jpg": "/Anabelle-Ristorante/static/media/image_5.0f3ff73cb39e3ede3b73.jpg",
+    "static/media/imgPromotions.webp": "/Anabelle-Ristorante/static/media/imgPromotions.41ae557628a17147c290.webp",
+    "static/media/imgReturn.png": "/Anabelle-Ristorante/static/media/imgReturn.6acaf8075d8b5cc89699.png",
+    "static/media/notification.svg?s3g3t9": "/Anabelle-Ristorante/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/logo.svg": "/Anabelle-Ristorante/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/notification.eot": "/Anabelle-Ristorante/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/Anabelle-Ristorante/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/Anabelle-Ristorante/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/Anabelle-Ristorante/index.html",
+    "main.a37acd51.css.map": "/Anabelle-Ristorante/static/css/main.a37acd51.css.map",
+    "main.dac9c220.js.map": "/Anabelle-Ristorante/static/js/main.dac9c220.js.map",
+    "787.14948d96.chunk.js.map": "/Anabelle-Ristorante/static/js/787.14948d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37acd51.css",
+    "static/js/main.dac9c220.js"
+  ]
+}
